@@ -18,7 +18,6 @@ Understanding the behavior of peptides in different environments is crucial for 
 <img src="https://github.com/user-attachments/assets/8fb597bd-1d18-41c6-b25c-002c612479c0" alt="image" width="600"/>
 
 - Summary of the difference in the interaction occurrence of two systems:
-<img src="https://github.com/user-attachments/assets/000e786c-dd5a-47c7-b6c7-6d200e3b84fd"
-alt="image" width="300"/>  
+<img src="https://github.com/user-attachments/assets/000e786c-dd5a-47c7-b6c7-6d200e3b84fd" alt="image" width="300"/>  
 
 
