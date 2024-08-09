@@ -11,7 +11,7 @@ Understanding the behavior of peptides in different environments is crucial for 
 - RMSD per chain for different systems and replicas:
 <img src="https://github.com/user-attachments/assets/4609199e-3b98-4ad1-8901-acbff736ec5d" alt="image" width="600"/>
 
--Aggregation tendency per residue using AggScore metric:
+- Aggregation tendency per residue using AggScore metric:
 <img src="https://github.com/user-attachments/assets/34277e37-2c2f-41d7-b5b6-5dbfaa5123f5" alt="image" width="300"/>
 
 - Relative Occurrence of interactions between the fatty-acid and the peptide at different systems:
